@@ -1,0 +1,13 @@
+ls: nonexistent: No such file or directory
+README.md
+abc.txt
+c.txt
+cmd
+codecrafters.yml
+f'\'46
+f\17
+f\n28
+go.mod
+go.sum
+your_program.sh
+ls: nonexistent: No such file or directory
